@@ -13,7 +13,7 @@
 To achieve these requirements, CLIP OS provides multiple security enhancements such as process isolation, tailored permission model, and multiple hardening developments deeply integrated into the system.
 There are currently two main use cases to the CLIP OS project, each one provided by a dedicated CLIP OS species: an end user system targeting common office tasks, and a VPN gateway.
 
-CLIP OS started in 2005 and is now publicly developed with the [version 5](/clipos).
+CLIP OS started in 2005 and is now publicly developed with the [version 5](https://github.com/clipos).
 This version 4 of CLIP OS is not intended to be used as is.
 Some packages may be missing and others may be incomplete because of the initial publication process.
 However, as for the version 5, you are free to pick any components or patches (according to their license terms) that may fit your needs.
